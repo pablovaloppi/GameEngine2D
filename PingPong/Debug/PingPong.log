@@ -1,0 +1,2 @@
+﻿GameEngine2D.lib(Scene.obj) : error LNK2001: símbolo externo "public: static class Shader Scene::m_shader" (?m_shader@Scene@@2VShader@@A) sin resolver
+C:\Users\Valoppi\documents\visual studio 2015\Projects\Game Engine 2D\Debug\PingPong.exe : fatal error LNK1120: 1 externos sin resolver
